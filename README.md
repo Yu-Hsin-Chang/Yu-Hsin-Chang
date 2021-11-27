@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-With a strong background in industrial engineering and statistics, I can integrate multiple domains and make connections between mathematics and programming. Being trained in the Master’s program in Industrial Engineering at National Taiwan University with a bachelor’s degree in Statistics from National Cheng Kung University.
+With a strong background in industrial engineering and statistics, I can integrate multiple domains and make connections between mathematics and programming.
